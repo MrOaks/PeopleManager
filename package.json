@@ -1,0 +1,27 @@
+{
+  "name": "peoplemanager",
+  "version": "1.0.0",
+  "description": "Small test application for team management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrOaks/PeopleManager.git"
+  },
+  "keywords": [
+    "management",
+    "team",
+    "scrum",
+    "rup",
+    "methodology",
+    "schedule"
+  ],
+  "author": "Mr.Oaks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrOaks/PeopleManager/issues"
+  },
+  "homepage": "https://github.com/MrOaks/PeopleManager#readme"
+}
